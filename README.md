@@ -6,7 +6,7 @@ Funkcje aplikacji
 
     Rejestracja pacjentów: Pacjenci mogą zarejestrować się w aplikacji, tworząc swoje konta i wprowadzając swoje dane osobowe.
     
-    Przegląd lekarzy: Pacjenci mogą przeglądać listę dostępnych lekarzy specjalistów w przychodni NOVAK-MED oraz zapoznać się z ich     specjalizacjami.
+    Przegląd lekarzy: Pacjenci mogą przeglądać listę dostępnych lekarzy specjalistów w przychodni NOVAK-MED oraz zapoznać się z ich specjalizacjami.
     
     Umawianie wizyt: Pacjenci mogą wybrać lekarza i dostępne terminy wizyt, a następnie umówić się na dogodny termin.
     
