@@ -6,15 +6,15 @@ Funkcje aplikacji
 
     Rejestracja pacjentów: Pacjenci mogą zarejestrować się w aplikacji, tworząc swoje konta i wprowadzając swoje dane osobowe.
     
-    Przegląd lekarzy: Pacjenci mogą przeglądać listę dostępnych lekarzy specjalistów w przychodni NOVAK-MED oraz zapoznać się z ich             specjalizacjami.
+    Przegląd lekarzy: Pacjenci mogą przeglądać listę dostępnych lekarzy specjalistów w przychodni NOVAK-MED oraz zapoznać się z ich     specjalizacjami.
     
     Umawianie wizyt: Pacjenci mogą wybrać lekarza i dostępne terminy wizyt, a następnie umówić się na dogodny termin.
     
     Zarządzanie harmonogramem: Lekarze mogą przeglądać swoje harmonogramy wizyt, potwierdzać lub odwoływać umówione wizyty.
     
-    Przegląd historii wizyt: Pacjenci mają dostęp do historii swoich wizyt, wraz z informacjami o lekarzach, datach wizyt i wprowadzonymi       notatkami.
+    Przegląd historii wizyt: Pacjenci mają dostęp do historii swoich wizyt, wraz z informacjami o lekarzach, datach wizyt i wprowadzonymi  notatkami.
     
-    Powiadomienia o wizytach: Aplikacja wysyła pacjentom przypomnienia o nadchodzących wizytach, aby upewnić się, że są świadomi swoich         umówionych terminów.
+    Powiadomienia o wizytach: Aplikacja wysyła pacjentom przypomnienia o nadchodzących wizytach, aby upewnić się, że są świadomi swoich    umówionych terminów.
 
 Technologie
 
