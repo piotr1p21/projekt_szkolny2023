@@ -22,9 +22,9 @@ Aplikacja NOVAKMED została zbudowana przy użyciu następujących technologii:
     
  Autorzy
 
-    Piotr Szymocha
-    Szymon Turkiewicz
-    Seweryn Krwaczyk 
     Aleksandra Orłowska
+    Piotr Szymocha
+    Seweryn Krwaczyk 
+    Szymon Turkiewicz
 
 Dziękujemy za zainteresowanie naszym projektem
