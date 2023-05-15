@@ -1,6 +1,7 @@
 NOVAKMED - System Rejestracji Wizyt Medycznych
 
-NOVAKMED to aplikacja umożliwiająca prostą i wygodną rejestrację wizyt medycznych w prywatnej przychodni NOVAK-MED. Aplikacja zapewnia pacjentom łatwy dostęp do lekarzy specjalistów oraz umożliwia zarządzanie harmonogramami wizyt.
+NOVAKMED to aplikacja umożliwiająca prostą i wygodną rejestrację wizyt medycznych w prywatnej przychodni. Aplikacja zapewnia pacjentom łatwy dostęp do lekarzy specjalistów oraz umożliwia zarządzanie harmonogramami wizyt.
+
 Funkcje aplikacji
 
     Rejestracja pacjentów: Pacjenci mogą zarejestrować się w aplikacji, tworząc swoje konta i wprowadzając swoje dane osobowe.
