@@ -19,11 +19,11 @@ Aplikacja NOVAKMED została zbudowana przy użyciu następujących technologii:
     Backend: PHP
     Baza danych: MySQL
     
-   **| Autorzy |
-|-------------|
-| Piotr Szymocha |
-|  Szymon Turkiewicz |
-| Seweryn Krawczyk |
-| Aleksandra Orłowska |**
+ Autorzy
+
+    Piotr Szymocha
+    Szymon Turkiewicz
+    Seweryn Krwaczyk 
+    Aleksandra Orłowska
 
 Dziękujemy za zainteresowanie naszym projektem
