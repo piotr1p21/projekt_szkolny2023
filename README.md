@@ -10,11 +10,7 @@ Funkcje aplikacji
     
     Umawianie wizyt: Pacjenci mogą wybrać lekarza i dostępne terminy wizyt, a następnie umówić się na dogodny termin.
     
-    Zarządzanie harmonogramem: Lekarze mogą przeglądać swoje harmonogramy wizyt, potwierdzać lub odwoływać umówione wizyty.
-    
     Przegląd historii wizyt: Pacjenci mają dostęp do historii swoich wizyt, wraz z informacjami o lekarzach, datach wizyt i wprowadzonymi notatkami.
-    
-    Powiadomienia o wizytach: Aplikacja wysyła pacjentom przypomnienia o nadchodzących wizytach, aby upewnić się, że są świadomi swoich umówionych terminów.
 
 Technologie
 
