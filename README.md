@@ -1,2 +1,2 @@
 # projekt_szkolny2023
-## w tym repozytorium będzie mój projekt przychodni
+w tym repozytorium będzie mój projekt przychodni
